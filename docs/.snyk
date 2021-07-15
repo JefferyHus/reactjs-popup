@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.19.0
+version: v1.21.5
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -1467,3 +1467,5 @@ patch:
         patched: '2020-12-21T13:47:15.137Z'
     - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2020-12-21T13:47:15.137Z'
+    - gatsby > devcert > lodash:
+        patched: '2021-07-15T22:13:43.565Z'
