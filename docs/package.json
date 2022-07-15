@@ -31,7 +31,7 @@
     "react-helmet": "^5.2.0",
     "react-live": "2.2.3",
     "reactjs-popup": "^1.4.2",
-    "terser": "4.2.1",
+    "terser": "4.8.1",
     "snyk": "^1.437.2"
   },
   "keywords": [
