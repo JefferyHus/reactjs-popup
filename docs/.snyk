@@ -1467,3 +1467,25 @@ patch:
         patched: '2020-12-21T13:47:15.137Z'
     - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
         patched: '2020-12-21T13:47:15.137Z'
+    - snyk > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - gatsby-cli > gatsby-recipes > contentful-management > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-go-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-cpp-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-docker-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-gradle-plugin > @snyk/java-call-graph-builder > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-docker-plugin > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-gradle-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-mvn-plugin > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
+    - snyk > snyk-python-plugin > snyk-poetry-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-12-21T13:52:48.580Z'
